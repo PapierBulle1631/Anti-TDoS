@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Anti-TDoS** app is designed to protect Android users from potential Telephony Denial of Service (TDoS) attacks by automatically blocking excessive incoming calls. The app monitors incoming calls, and if more than 3 calls are detected in one minute, it will notify the user and provide an option to block future calls from the same source. 
+The **Anti-TDoS** app is designed to protect Android users from potential Telephony Denial of Service (TDoS) attacks by automatically blocking excessive incoming calls. The app monitors incoming calls, and if more than 3 calls are detected in one minute, it will notify the user and provide an option to block future calls. 
 
 This can help prevent unwanted disruptions due to aggressive spam or attack attempts via telephony services.
 
@@ -18,7 +18,7 @@ This can help prevent unwanted disruptions due to aggressive spam or attack atte
 1. **Clone this repository** or **Download the APK file**:
    - To clone:
      ```bash
-     git clone https://github.com/YOUR_GITHUB_USERNAME/anti-tdos-app.git
+     git clone https://github.com/PapierBulle1631/Anti-TDoS.git
      ```
    - Or download the APK directly from the releases section.
 
@@ -30,6 +30,7 @@ This can help prevent unwanted disruptions due to aggressive spam or attack atte
 
 - **READ_PHONE_STATE**: Required to monitor incoming calls.
 - **ANSWER_PHONE_CALLS**: Required to end calls if a TDoS is detected.
+- Do not forget to giev every needed permissions from **settings**
 
 ## Usage
 
@@ -40,13 +41,13 @@ This can help prevent unwanted disruptions due to aggressive spam or attack atte
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements, feel free to fork this repository, make changes, and submit a pull request.
+This is a finished version and no modification are to come. Feel free to send feedback but it is not probable that the apk changes.
 
 ## Contact
 
 For any inquiries or issues, feel free to open an issue in this repository, or contact me at:
-- Email: [your.email@example.com]
+- Email: bubblewrap1631@gmail.com
