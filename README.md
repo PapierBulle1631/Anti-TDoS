@@ -11,10 +11,7 @@
 | - **Permissions**: Requests necessary permissions to read call state and end calls (if required). | - **Permissions** : Demande les permissions nécessaires pour lire l'état des appels et mettre fin aux appels (si nécessaire). |
 | **3. Installation**                                                               | **3. Installation**                                                          |
 | 1. **Clone this repository** or **Download the APK file**:                    | 1. **Clonez ce dépôt** ou **Téléchargez le fichier APK** :               |
-| - To clone:                                                                   | - Pour cloner :                                                          |
-| ```bash                                                                       | ```bash                                                                  |
-| git clone https://github.com/PapierBulle1631/Anti-TDoS.git                    | git clone https://github.com/PapierBulle1631/Anti-TDoS.git               |
-| ```                                                                           | ```                                                                      |
+| - To clone: ```bash git clone https://github.com/PapierBulle1631/Anti-TDoS.git``` | - Pour cloner : ```bash git clone https://github.com/PapierBulle1631/Anti-TDoS.git ``` |
 | - Or download the APK directly from the releases section.                    | - Ou téléchargez directement l'APK depuis la section des releases.       |
 | 2. **Install the APK** on your Android device:                                | 2. **Installez l'APK** sur votre appareil Android :                       |
 | - Go to **Settings > Security** and enable **Install from Unknown Sources**. | - Allez dans **Paramètres > Sécurité** et activez **Installation depuis des sources inconnues**. |
